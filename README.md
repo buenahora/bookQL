@@ -1,5 +1,5 @@
 # BookQL
-<img src="cover.png">
+<img src="cover.jpg">
 
 ## Vision
 The vision behind BookQL is that a user would be able to query for thematic words within books, and then see the progression over time in the form of a line graph.
@@ -10,5 +10,5 @@ BookQL takes an input of a book and a queryTerm and traverses the book, paragrap
 ## Results
 
 <img src="love.png" />
-<img src="slavery.png" />
+<img src="slavery.PNG" />
 <img src="terrorism.png" />
