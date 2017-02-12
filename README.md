@@ -1,5 +1,5 @@
 # BookQL
-<img src="cover.jpg">
+<img src="cover.jpg" height="230px" >
 
 ## Vision
 The vision behind BookQL is that a user would be able to query for thematic words within books, and then see the progression over time in the form of a line graph.
